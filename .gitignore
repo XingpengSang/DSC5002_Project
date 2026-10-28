@@ -10,9 +10,5 @@ __pycache__/
 ~$*
 .DS_Store
 
-# Local datasets
-data/raw_monthly/
-data/raw_daily/
-
 # Generated results
 results/git init
