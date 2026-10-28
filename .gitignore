@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary files
+~$*
+.DS_Store
+
+# Local datasets
+data/raw_monthly/
+data/raw_daily/
+
+# Generated results
+results/
